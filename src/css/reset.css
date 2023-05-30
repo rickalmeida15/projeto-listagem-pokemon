@@ -8,6 +8,7 @@
 ul{
   list-style: none;
 =======
+<<<<<<< HEAD
 *{
   margin: 0;
   padding: 0;
@@ -16,5 +17,15 @@ ul{
 
 ul{
   list-style: none;
+=======
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul{
+  list-style: none;
+>>>>>>> 58fd7f3ea23ca7e77fda182d46894e7d71c02d13
 >>>>>>> 7b1fdeee0c9e2d2c0e8a8a7af44512a3b13aeb49
 }

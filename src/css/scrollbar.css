@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+/* ===== Scrollbar CSS ===== */
+
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #f1e9e9;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #582965;
+  border-radius: 10px;
+  border: 3px solid #ffffff;
+}
+=======
+/* ===== Scrollbar CSS ===== */
+
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #f1e9e9;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #582965;
+  border-radius: 10px;
+  border: 3px solid #ffffff;
+}
+>>>>>>> 7b1fdeee0c9e2d2c0e8a8a7af44512a3b13aeb49
